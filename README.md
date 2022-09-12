@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Eei, tudo bem? Me chamo <a href="https://www.linkedin.com/in/rbrugioolo/">Rodrigo Borges Brugiolo</a> </h1>
-  <p align="center">Atualmente estou cursando computação na universidade federal de Juiz de Fora, onde tenho trabalhado e estudado lógica de programação e posteriormente, coloco em pratica tudo aquilo que aprendi nas aulas fazendo atividades lógicas em C. 
+  <p align="center">Atualmente estou cursando computação na universidade federal de Juiz de Fora, onde estudo algoritmos e lógica de programação e assim, posteriormente, coloco em pratica tudo aquilo que aprendi nas aulas fazendo atividades lógicas utilizando a linguagem C. 
   <br>Em meu tempo livre, tenho estudado HTML, CSS, PHP, JS, TS por plataformas online! </h2>
 </div>
 
