@@ -35,7 +35,7 @@
 
 <div align="center">
   <p>Obrigado pela visita! Bons estudos :heart:</p>
-  <p> 100% fiel, favor não insistir</p>
+  
 </div>
 <br>
 
