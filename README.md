@@ -15,8 +15,7 @@
 <h2 align="center"> Ferramentas que estudo no momento </h2>
 
 <div align="center" valign="top">
-  
-  <h1> Learning </h1>
+ 
   
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
