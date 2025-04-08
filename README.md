@@ -1,7 +1,7 @@
 <div>
-  <h1 align="center">Eei, tudo bem? Me chamo <a href="https://www.linkedin.com/in/rbrugioolo/">Rodrigo Borges Brugiolo</a> </h1>
+  <h1 align="center">Olá, tudo bem? Me chamo <a href="https://www.linkedin.com/in/rbrugioolo/">Rodrigo Borges Brugiolo</a> </h1>
   <p align="center">Atualmente estou cursando computação na universidade federal de Juiz de Fora, onde estudo algoritmos e lógica de programação e assim, posteriormente, coloco em pratica tudo aquilo que aprendi nas aulas fazendo atividades lógicas utilizando a linguagem C. 
-  <br>Em meu tempo livre, tenho estudado HTML, CSS, PHPpor plataformas online! </h2>
+  <br>Em meu tempo livre, tenho estudado HTML, CSS, PHP por plataformas online! </h2>
 </div>
 
 <br>
