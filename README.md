@@ -1,47 +1,18 @@
-<div>
-  <h1 align="center">Olá, tudo bem? Me chamo <a href="https://www.linkedin.com/in/rbrugioolo/">Rodrigo Borges Brugiolo</a> </h1>
-  <p align="center">Atualmente estou cursando computação na universidade federal de Juiz de Fora, onde estudo algoritmos e lógica de programação e assim, posteriormente, coloco em pratica tudo aquilo que aprendi nas aulas fazendo atividades lógicas utilizando a linguagem C. 
-  <br>Em meu tempo livre, tenho estudado HTML, CSS, PHP por plataformas online! </h2>
-</div>
+# Oie, eu sou o Rodrigo 👋
 
-<br>
+Atualmente sou Head Tech e Sócio na DigiEnge. No dia a dia, trabalho desenhando fluxos de integração e conectando dados de clientes a agentes de IA em tempo real. Minhas principais ferramentas hoje são o n8n para orquestrar tudo e o Postman para debugar e testar APIs.
 
-<!-- <h1 align="center"> 
- 
-</h1>
+Estou cursando Análise e Desenvolvimento de Sistemas (Estácio) e também estudei Ciência da Computação na UFJF. 
 
-<p align="center"><i>"</i></p> -->
+Meu foco agora é migrar de vez para a área de **Engenharia de Dados**. Por isso, estou caindo de cabeça nos estudos de SQL e modelagem para somar essa base mais robusta de dados com a experiência prática que já tenho integrando sistemas e ferramentas de IA. 
 
-<h2 align="center"> Ferramentas que estudo no momento </h2>
+Curto muito resolver problemas de lógica, otimizar processos e compartilhar conhecimento — inclusive já tive a experiência massa de treinar e mentorar 4 estagiários que passaram pela empresa.
 
-<div align="center" valign="top">
+### 🛠️ O que uso e estou estudando no momento:
+* **Integrações e APIs:** n8n, Postman, requisições HTTP e leitura de documentações.
+* **Inteligência Artificial:** Implementação e conexão de agentes de IA com ecossistemas de sistemas.
+* **Foco atual:** Banco de dados e SQL.
 
- 
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" >
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--<img align="center" alt="github" height="40" width="40" src="/pasta/php.png">-->
-  <!--<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!--<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
-  <img align="center" alt="github" height="30" width="30" src="/pasta/GitHub.png">
- 
-</div><br>
+---
 
-
-
-
-
-
-
-<div align="center">
-  <p>Obrigado pela visita! Bons estudos :heart:</p>
-  
-</div>
-<br>
-
-<div align="center">
-  
-  <a href="https://www.instagram.com/rbbrugiolo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rbrugioolo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:rodrigo.brugiolo@estudante.ufjf.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+📬 Vamos trocar uma ideia? [LinkedIn](link_do_seu_perfil) | [E-mail](seu_email@email.com)
