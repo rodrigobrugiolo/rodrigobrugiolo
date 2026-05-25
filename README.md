@@ -1,18 +1,14 @@
 # Oie, eu sou o Rodrigo 👋
 
-Atualmente sou Head Tech e Sócio na DigiEnge. No dia a dia, trabalho desenhando fluxos de integração e conectando dados de clientes a agentes de IA em tempo real. Minhas principais ferramentas hoje são o n8n para orquestrar tudo e o Postman para debugar e testar APIs.
+Atualmente sou Head de Automação & Integrações na [DigiEnge](https://digienge.io/). No dia a dia, trabalho desenhando fluxos de integração e conectando dados de clientes a agentes de IA em tempo real. Minhas principais ferramentas hoje são o n8n para orquestração entre sistemas e o Postman para debugar e testar APIs.
 
-Estou cursando Análise e Desenvolvimento de Sistemas (Estácio) e também estudei Ciência da Computação na UFJF. 
+Estou cursando Análise e Desenvolvimento de Sistemas pela Estácio e também Ciência da Computação na Universidade Federal de Juiz de Fora. 
 
-Meu foco agora é migrar de vez para a área de **Engenharia de Dados**. Por isso, estou caindo de cabeça nos estudos de SQL e modelagem para somar essa base mais robusta de dados com a experiência prática que já tenho integrando sistemas e ferramentas de IA. 
+Por isso, estou caindo de cabeça nos estudos de SQL e modelagem para somar essa base mais robusta de dados com a experiência prática que já tenho integrando sistemas e ferramentas de IA. 
 
-Curto muito resolver problemas de lógica, otimizar processos e compartilhar conhecimento — inclusive já tive a experiência massa de treinar e mentorar 4 estagiários que passaram pela empresa.
+Meu plano de estudos atual envolve dominar o ecossistema essencial de Engenharia de Dados:
+* **Bancos de Dados & Consultas:** SQL avançado e modelagem relacional.
+* **Arquitetura & Pipelines de Dados (ETL/ELT):** Aprender a estruturar o fluxo de grandes volumes de dados de ponta a ponta.
+* **Processamento de Dados:** Ferramentas de Big Data, com foco em Apache Spark.
 
-### 🛠️ O que uso e estou estudando no momento:
-* **Integrações e APIs:** n8n, Postman, requisições HTTP e leitura de documentações.
-* **Inteligência Artificial:** Implementação e conexão de agentes de IA com ecossistemas de sistemas.
-* **Foco atual:** Banco de dados e SQL.
-
----
-
-📬 Vamos trocar uma ideia? [LinkedIn](link_do_seu_perfil) | [E-mail](seu_email@email.com)
+📬 Vamos trocar uma ideia? [LinkedIn](https://www.linkedin.com/in/rodrigo-brugiolo-109017291/) | [E-mail](rbbrugiolo@gmail.com)
