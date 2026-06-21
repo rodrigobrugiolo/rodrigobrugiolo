@@ -11,4 +11,4 @@ Meu plano de estudos atual envolve dominar o ecossistema essencial de Engenharia
 * **Arquitetura & Pipelines de Dados (ETL/ELT):** Aprender a estruturar o fluxo de grandes volumes de dados de ponta a ponta.
 * **Processamento de Dados:** Ferramentas de Big Data, com foco em Apache Spark.
 
-📬 Vamos trocar uma ideia? [LinkedIn](https://www.linkedin.com/in/rodrigo-brugiolo-109017291/) | [E-mail](rbbrugiolo@gmail.com)
+📬 Vamos trocar uma ideia? [LinkedIn](https://www.linkedin.com/in/rodrigo-brugiolo-109017291/) | [E-mail](mailto:rbbrugiolo@gmail.com)
