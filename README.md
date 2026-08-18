@@ -1,6 +1,6 @@
 # Oie, eu sou o Rodrigo 👋
 
-Atualmente sou Head de Automação & Integrações na [DigiEnge](https://digienge.io/). No dia a dia, trabalho desenhando fluxos de integração e conectando dados de clientes a agentes de IA em tempo real. Minhas principais ferramentas hoje são o n8n para orquestração entre sistemas e o Postman para debugar e testar APIs.
+Atualmente sou Head de Automação & Integrações na [DigiEnge](https://digienge.io/). No dia a dia, trabalho desenhando fluxos de integração e conectando dados de clientes a agentes de IA em tempo real. Minhas principais ferramentas hoje são o [SuperFuncionário](https://digienge.io/superfuncionario/), o n8n para orquestração entre sistemas e o Postman/Bruno para debugar e testar APIs.
 
 Estou cursando Análise e Desenvolvimento de Sistemas pela Estácio e também Ciência da Computação na Universidade Federal de Juiz de Fora. 
 
