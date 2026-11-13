@@ -1,14 +1,30 @@
-# Oie, eu sou o Rodrigo 👋
-
-Atualmente sou Head de Automação & Integrações na [DigiEnge](https://digienge.io/). No dia a dia, trabalho desenhando fluxos de integração e conectando dados de clientes a agentes de IA em tempo real. Minhas principais ferramentas hoje é o [SuperFuncionário](https://digienge.io/superfuncionario/), o n8n para orquestração entre sistemas e o Postman/Bruno para debugar e testar APIs.
-
-Estou cursando Análise e Desenvolvimento de Sistemas pela Estácio e também Ciência da Computação na Universidade Federal de Juiz de Fora. 
-
-Por isso, estou caindo de cabeça nos estudos de SQL e modelagem para somar essa base mais robusta de dados com a experiência prática que já tenho integrando sistemas e ferramentas de IA. 
-
-Meu plano de estudos atual envolve dominar o ecossistema essencial de Engenharia de Dados:
-* **Bancos de Dados & Consultas:** SQL avançado e modelagem relacional.
-* **Arquitetura & Pipelines de Dados (ETL/ELT):** Aprender a estruturar o fluxo de grandes volumes de dados de ponta a ponta.
-* **Processamento de Dados:** Ferramentas de Big Data, com foco em Apache Spark.
-
-📬 Vamos trocar uma ideia? [LinkedIn](https://www.linkedin.com/in/rodrigo-brugiolo-109017291/) | [E-mail](mailto:rbbrugiolo@gmail.com)
+# Oi, eu sou o Rodrigo 👋
+ 
+**AI Builder | Agentes de IA, Automação e Integrações**
+ 
+Construo soluções de IA de ponta a ponta para resolver problemas reais de negócio: agentes autônomos, automações e integrações entre LLMs e sistemas corporativos (CRMs, ERPs, APIs).
+ 
+Hoje sou Tech Lead na **DigiEnge**, onde crio "Funcionários de IA" para o SaaS SuperFuncionário, coordeno prompters e desenvolvo automações e integrações. Estudo Análise e Desenvolvimento de Sistemas na Estácio (conclusão prevista para o 2º semestre de 2027).
+ 
+## O que eu faço no dia a dia
+ 
+- 🤖 **Agentes de IA:** orquestração de agentes com GPT (OpenAI), Claude e Gemini, prompt engineering avançado e RAG.
+- ⚙️ **Automação:** workflows avançados no n8n, com APIs REST e scripts em Python; também uso Make e Zapier.
+- 🔌 **Integrações:** servidores MCP (Model Context Protocol), APIs em JavaScript e Supabase/PostgreSQL com Docker.
+- 📊 **Dados com IA:** dashboards no Looker Studio e controle de custo de consumo de API.
+- ⚡ **Vibe coding:** Cursor e Replit para sair da ideia ao produto rápido.
+## Projetos em destaque
+ 
+| Projeto | O que é |
+| --- | --- |
+| [mcp-n8n-bridge](https://github.com/rodrigobrugiolo/mcp-n8n-bridge) | Servidor MCP que conecta agentes de IA a workflows do n8n |
+| [Intermitente-PRO](https://github.com/rodrigobrugiolo/Intermitente-PRO) | Plataforma full-stack para gestão de vagas de trabalho intermitente |
+| [Tratamento-WhatsApp-Brasil](https://github.com/rodrigobrugiolo/Tratamento-WhatsApp-Brasil) | Ferramenta que padroniza contatos de um CSV para o formato do WhatsApp |
+ 
+## Stack
+ 
+`n8n` · `MCP` · `OpenAI` · `Claude` · `Gemini` · `RAG` · `JavaScript` · `TypeScript` · `Python` · `Node.js` · `Supabase` · `PostgreSQL` · `Docker` · `Postman` · `Looker Studio` · `Git`
+ 
+## Contato
+ 
+📬 [LinkedIn](https://www.linkedin.com/in/brugiolo/) · ✉️ [rbbrugiolo@gmail.com](mailto:rbbrugiolo@gmail.com)
