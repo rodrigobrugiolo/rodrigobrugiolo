@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:5B21B6,100:06B6D4&height=220&section=header&text=Rodrigo%20Brugiolo&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20Builder%20%C2%B7%20Agentes%20de%20IA%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20Integra%C3%A7%C3%B5es&descAlignY=62&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:5B21B6,100:06B6D4&height=200&section=header&text=Rodrigo%20Brugiolo&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Builder%20%C2%B7%20Agentes%20de%20IA%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20Integra%C3%A7%C3%B5es&descAlignY=58&descSize=16" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=06B6D4&center=true&vCenter=true&width=720&lines=Construo+Funcion%C3%A1rios+de+IA+que+trabalham+de+verdade;Agentes+aut%C3%B4nomos+%2B+n8n+%2B+MCP;LLMs+conectados+a+CRMs%2C+ERPs+e+APIs;Da+ideia+ao+produto%2C+r%C3%A1pido" alt="Typing SVG" />
 
@@ -166,6 +166,6 @@ Se você tem um processo repetitivo, um sistema que precisa "conversar" com uma 
 <a href="https://www.linkedin.com/in/brugiolo/"><img src="https://img.shields.io/badge/Falar%20no%20LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rbbrugiolo@gmail.com"><img src="https://img.shields.io/badge/Enviar%20e--mail-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:5B21B6,100:0D1117&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:5B21B6,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
